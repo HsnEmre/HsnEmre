@@ -32,8 +32,7 @@ A multi-role portal for elevator maintenance operations and customer communicati
 - **What we built (team project):** Admin/Staff/Customer flows, maintenance tracking, PDF-based maintenance forms, notifications
 - **My contribution:** Role-based authorization, backend modules (maintenance records, forms), PDF generation workflows, data integrity & reporting
 - **Tech:** ASP.NET MVC/Core, SQL Server, PDF generation, role-based access
-- 🌐 **Live:** https://vuralsanasansor.online/
-
+- 🌐 **Live:** https://xn--vuralsanasansr-7pb.online/
 
 ---
 
