@@ -7,18 +7,44 @@
   </a>
 </p>
 
-<ul>
-  <li>🔭 I’m currently working on <b>a Nurse Call & Patient Monitoring system</b> with real-time alerts and device integrations (Serial/TCP).</li>
-  <li>🛡️ I previously developed a <b>secure Ammunition Depot Monitoring & Control System</b> for the <b>Gendarmerie General Command</b> (real-time fire/smoke alarm tracking & automated notifications).</li>
-  <li>🏭 At <b>Vestel</b>, I worked on <b>MOM/MES integrations</b> for production tracking and quality control using TCP/PLC/camera-based data flows and test automation.</li>
-  <li>🌱 I’m currently learning <b>ASP.NET Core Web API, EF Core performance tuning, Docker, Azure fundamentals</b> and exploring <b>Python / Computer Vision</b>.</li>
-  <li>💬 Ask me about <b>C#, .NET, ASP.NET Core, EF Core, SQL Server, REST APIs, WinForms/.NET MAUI, hardware integrations (SerialPort/TCP/PLC)</b>.</li>
-  <li>📫 How to reach me: <b>emrehasanbuzkan@gmail.com</b></li>
-  <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/hasanemrebuzkan/">https://www.linkedin.com/in/hasanemrebuzkan/</a></li>
-  <li>⚡ Fun fact: <b>I enjoy building systems that connect software with real-world devices (Serial/TCP/PLC).</b></li>
-</ul>
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **a Nurse Call & Patient Monitoring system** with real-time alerts and device integrations (Serial/TCP).
+- 🛡️ Previously developed a **secure Ammunition Depot Monitoring & Control System** for the **Gendarmerie General Command** (real-time fire/smoke alarm tracking & automated notifications).
+- 🏭 At **Vestel**, contributed to **MOM/MES integrations** for production tracking and quality control using TCP/PLC/camera-based data flows and test automation.
+- 🌱 Currently learning **ASP.NET Core Web API, EF Core performance tuning, Docker, Azure fundamentals**, and exploring **Python / Computer Vision**.
+- 💬 Ask me about **C#, .NET, ASP.NET Core, EF Core, SQL Server, REST APIs, WinForms/.NET MAUI, and hardware integrations (SerialPort/TCP/PLC)**.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🚀 Featured Projects (Live)
+
+### 🌬️ Klima Dünyası — Service Marketplace & Lead Platform
+A web platform that connects customers with climate service providers and streamlines lead collection and communication.
+
+- **What we built (team project):** Service listing & filtering, lead/request forms, admin/content management, SEO-friendly pages
+- **My contribution:** Backend/API development, database design & queries, admin workflows, performance and reliability improvements
+- **Tech:** C#, .NET / ASP.NET (MVC or Web API), SQL Server, (React/Tailwind/Bootstrap)
+- 🌐 **Live:** https://klimadunyasi.net/
+
+### 🛗 Vuralsan Asansör — Maintenance & Customer Portal
+A multi-role portal for elevator maintenance operations and customer communication.
+
+- **What we built (team project):** Admin/Staff/Customer flows, maintenance tracking, PDF-based maintenance forms, notifications
+- **My contribution:** Role-based authorization, backend modules (maintenance records, forms), PDF generation workflows, data integrity & reporting
+- **Tech:** ASP.NET MVC/Core, SQL Server, PDF generation, role-based access
+- 🌐 **Live:** https://vuralsanasansor.online/
+
+
+---
+
+### 📫 Contact & Links
+- 📧 **Email:** emrehasanbuzkan@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hasanemrebuzkan/  
+- ⚡ **Fun fact:** I enjoy building systems that connect software with real-world devices (Serial/TCP/PLC).
+
+---
+
+### 🤝 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/hasanemrebuzkan/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanemrebuzkan" height="30" width="40" />
@@ -28,7 +54,9 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
@@ -62,6 +90,9 @@
   </a>
 </p>
 
+---
+
+### 📊 GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsnemre&show_icons=true&locale=en&layout=compact" alt="hsnemre" />
 </p>
