@@ -18,21 +18,24 @@
 
 ## 🚀 Featured Projects (Live)
 
-### 🌬️ Klima Dünyası — Service Marketplace & Lead Platform
-A web platform that connects customers with climate service providers and streamlines lead collection and communication.
+### 🌬️ Klima Dünyası — Service Operations & Business Tracking Platform
+A web platform to manage day-to-day service operations and business performance end-to-end.
 
-- **What we built (team project):** Service listing & filtering, lead/request forms, admin/content management, SEO-friendly pages
-- **My contribution:** Backend/API development, database design & queries, admin workflows, performance and reliability improvements
+- **What we built (team project):** Job/task assignment & tracking, income/expense tracking, sales tracking, maintenance/service records, customer satisfaction surveys, purchase/sales tracking, reports, dashboards & charts
+- **My contribution:** Backend/API development, database design & reporting queries, admin workflows, data consistency, performance improvements
 - **Tech:** C#, .NET / ASP.NET (MVC or Web API), SQL Server, (React/Tailwind/Bootstrap)
+- **Outcome/Impact:** Centralized operational workflows (jobs, finance, sales, maintenance) into one system, enabling faster tracking, clearer reporting, and better decision-making.
 - 🌐 **Live:** https://klimadunyasi.net/
 
-### 🛗 Vuralsan Asansör — Maintenance & Customer Portal
-A multi-role portal for elevator maintenance operations and customer communication.
+### 🛗 Vuralsan Asansör — Maintenance, Finance & CRM Portal
+A multi-role portal for managing maintenance operations and customer communication with measurable business insights.
 
-- **What we built (team project):** Admin/Staff/Customer flows, maintenance tracking, PDF-based maintenance forms, notifications
-- **My contribution:** Role-based authorization, backend modules (maintenance records, forms), PDF generation workflows, data integrity & reporting
-- **Tech:** ASP.NET MVC/Core, SQL Server, PDF generation, role-based access
+- **What we built (team project):** Maintenance tracking, job assignment, income/expense and sales tracking, purchase/sales tracking, customer satisfaction surveys, reporting with dashboards & graphs
+- **My contribution:** Role-based access (Admin/Staff/Customer), maintenance modules, reporting & analytics endpoints, PDF/report workflows (if applicable), reliability and audit-friendly data logging
+- **Tech:** ASP.NET MVC/Core, SQL Server, role-based access, reporting/analytics
+- **Outcome/Impact:** Reduced manual follow-ups by standardizing workflows and providing real-time dashboards for maintenance status, financial health, and customer feedback.
 - 🌐 **Live:** https://xn--vuralsanasansr-7pb.online/
+
 
 ---
 
