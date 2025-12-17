@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan Emre Buzkan</h1>
 <h3 align="center">.NET Backend-Focused Fullstack Developer | C# | ASP.NET Core | WinForms & .NET MAUI</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hsnemre&theme=flat&no-frame=true&margin-w=8" alt="hsnemre" />
-  </a>
-</p>
+
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **a Nurse Call & Patient Monitoring system** with real-time alerts and device integrations (Serial/TCP).
@@ -103,6 +99,3 @@ A multi-role portal for managing maintenance operations and customer communicati
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsnemre&show_icons=true&locale=en" alt="hsnemre" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsnemre" alt="hsnemre" />
-</p>
