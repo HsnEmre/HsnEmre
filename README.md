@@ -91,11 +91,8 @@ A multi-role portal for managing maintenance operations and customer communicati
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsnemre&show_icons=true&locale=en&layout=compact" alt="hsnemre" />
-</p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsnemre&show_icons=true&locale=en" alt="hsnemre" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsnemre&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsnemre&show_icons=true)
+
 
