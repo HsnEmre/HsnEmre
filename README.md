@@ -8,7 +8,7 @@
 - 🛡️ Previously developed a **secure Ammunition Depot Monitoring & Control System** for the **Gendarmerie General Command** (real-time fire/smoke alarm tracking & automated notifications).
 - 🏭 At **Vestel**, contributed to **MOM/MES integrations** for production tracking and quality control using TCP/PLC/camera-based data flows and test automation.
 - 🌱 Currently learning **ASP.NET Core Web API, EF Core performance tuning, Docker, Azure fundamentals**, and exploring **Python / Computer Vision**.
-- 💬 Ask me about **C#, .NET, ASP.NET Core, EF Core, SQL Server, REST APIs, WinForms/.NET MAUI, and hardware integrations (SerialPort/TCP/PLC)**.
+- 💬 Ask me about **C#, .NET, ASP.NET Core, EF Core, SQL Server, REST APIs, WinForms/.NET MAUI,MES/MOM and hardware integrations (SerialPort/TCP/PLC)**.
 
 ---
 
@@ -92,7 +92,6 @@ A multi-role portal for managing maintenance operations and customer communicati
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsnemre&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsnemre&show_icons=true)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hsnemre&layout=compact&cache_seconds=86400&v=1)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hsnemre&show_icons=true&cache_seconds=86400&v=1)
 
