@@ -92,6 +92,6 @@ A multi-role portal for managing maintenance operations and customer communicati
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hsnemre&layout=compact&cache_seconds=86400&v=1)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hsnemre&layout=compact&langs_count=20&cache_seconds=86400)
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hsnemre&show_icons=true&cache_seconds=86400&v=1)
 
