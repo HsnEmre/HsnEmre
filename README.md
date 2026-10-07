@@ -1,10 +1,14 @@
-<!-- Başlangıç Banner ve ASCII Art Kısmı -->
+<!-- Başlangıç ASCII Header / Terminal Görünümü -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hsnemre/hsnemre/main/ascii-art-portrait.png" width="300" alt="Hasan Emre Buzkan ASCII Art Portrait">
+  <pre align="center">
+ ╦╗ ╦╔═╗╔═╗╔═╗╔╗╔  ╔═╗╔╦╗╦═╗╔═╗  ╔╗ ╦  ╦╔═╗╦╔═╗╔╗╔
+ ╠╩╗║╠═╣╚═╗╠═╣║║║  ║╣║║║║╠╦╝║╣   ╠╩╗║  ║╔═╝╠╩╗║║║║
+ ╩ ╩╩╩ ╩╚═╝╩ ╩╝╚╝  ╚═╝╩ ╩╩╚═╚═╝  ╚═╝╩═╝╩╚═╝╩ ╩╝╚╝
+  </pre>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=94DDFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hasan+Emre+Buzkan;Full-Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+React;Crafting+Industrial+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=94DDFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hasan+Emre+Buzkan;Full-Stack+.NET+Developer;C%23+%7C+ASP.NET+Core+%7C+React;Crafting+Industrial+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,20 +23,12 @@
 
 Endüstriyel yazılımlar ve modern işletme çözümleri üzerine odaklanmış, **C# / .NET** aşığı bir **Full-Stack Geliştiriciyim.** ERP/MES entegrasyonlarından gerçek zamanlı izleme sistemlerine kadar, işin mutfağında kod yazıyorum.
 
-<p align="center">
-  <i class="devicon-csharp-plain colored"></i>&nbsp;
-  <i class="devicon-dotnetcore-plain colored"></i>&nbsp;
-  <i class="devicon-react-original colored"></i>&nbsp;
-  <i class="devicon-microsoftsqlserver-plain-wordmark colored"></i>&nbsp;
-  <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
-</p>
-
 ---
 
-<!-- Yetenekler Kısmı (Yeni Tip Rozetler) -->
+<!-- Teknoloji Çantası -->
 ## 🛠️ Teknoloji Çantası
 
-### 🧠 Backend (The Backbone)
+### 🧠 Backend
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -42,7 +38,7 @@ Endüstriyel yazılımlar ve modern işletme çözümleri üzerine odaklanmış,
   <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-### 🎨 Frontend (The Face)
+### 🎨 Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
@@ -51,7 +47,7 @@ Endüstriyel yazılımlar ve modern işletme çözümleri üzerine odaklanmış,
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🏭 Industrial & Integrations (The Real World)
+### 🏭 Industrial & Integrations
 <p align="left">
   <img src="https://img.shields.io/badge/SAP%20Integration-008FD3?style=flat-square&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/TCP%20/%20RS232-FFD700?style=flat-square&logo=internet-of-things&logoColor=black" />
@@ -62,7 +58,7 @@ Endüstriyel yazılımlar ve modern işletme çözümleri üzerine odaklanmış,
 ---
 
 <!-- İstatistikler Kısmı -->
-## 📈 GitHub Canavarı Çalışıyor
+## 📈 GitHub İstatistikleri
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hsnemre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hasan's GitHub stats" />
@@ -75,23 +71,8 @@ Endüstriyel yazılımlar ve modern işletme çözümleri üzerine odaklanmış,
 
 ---
 
-<!-- Öne Çıkan Projeler (Kart Formatı) -->
-## 📌 Amiral Gemisi Projeler
-
-<div align="center">
-
-| Proje | Açıklama | Teknoloji |
-| :--- | :--- | :--- |
-| **Nalbur Management** | Modern WPF + MVVM ile geliştirilmiş hırdavat yönetim sistemi. | WPF, EF Core, SQL Server, Material Design |
-| **Industrial Monitoring** | Gerçek zamanlı fabrika verileri, MES entegrasyonu ve TCP iletişim. | C#, Web API, React, SignalR, SAP, Camera Control |
-| **Barcode Stock System** | WinForms ile geliştirilmiş masaüstü stok ve satış takip uygulaması. | C#, WinForms, SQL Server, Entity Framework |
-
-</div>
-
----
-
 <!-- İletişim Kısmı -->
-## 📫 Bana Ulaş
+## 📫 İletişim
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hasanemrebuzkan/">
@@ -108,17 +89,14 @@ Endüstriyel yazılımlar ve modern işletme çözümleri üzerine odaklanmış,
 ---
 
 <!-- Şu Anki Hedef -->
-## 🎯 Rotadaki Hedefler
+## 🎯 Güncel Odak Noktaları
 
-- [x] Scalable .NET uygulamaları geliştirmek.
-- [ ] Yazılım mimarisi becerilerini arşa çıkarmak.
-- [ ] **AI, Python ve Machine Learning** dünyasına derin dalış yapmak.
+- [x] Ölçeklenebilir **.NET** uygulamaları geliştirmek
+- [ ] Yazılım mimarisi ve desenlerinde derinleşmek
+- [ ] **AI, Python ve Makine Öğrenmesi** konularında kendimi geliştirmek
 
 ---
 
-<!-- Son Alt Bilgi -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hsnemre/hsnemre/main/octocat-waving.gif" width="50">
-  <br>
-  <sub>Hasan Emre Buzkan tarafından sevgi ve bolca kahve ile yapıldı.</sub>
+  <sub>Hasan Emre Buzkan tarafından düzenlendi.</sub>
 </p>
